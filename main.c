@@ -73,7 +73,7 @@ int main() {
 
 				num++;
 
-				if(num == 6)
+				if(num == 4)
 					num = 1;
 
 				printf("%d\n",num);
@@ -145,7 +145,7 @@ int main() {
 
    				num++;
 
-   				if(num == 5)
+   				if(num == 6)
    					num = 1;
 
    				printf("%d\n",num);
